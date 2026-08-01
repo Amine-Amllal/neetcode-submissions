@@ -35,21 +35,11 @@ Some problems may contain multiple submissions, reflecting different approaches 
 
 ---
 
-## Languages
+## Language
 
-This repository may contain solutions written in multiple programming languages, including:
+This repository contains solutions to competitive programming and coding interview problems.
 
-- C++
-- Python
-- Java
-- JavaScript
-- TypeScript
-- C#
-- Go
-- Rust
-- Kotlin
-- Swift
-- SQL
+Since **C++** is the de facto standard for competitive programming—thanks to its high performance, low-level control, and rich Standard Template Library (STL)—all solutions in this repository are implemented exclusively in **C++**.
 
 ---
 
